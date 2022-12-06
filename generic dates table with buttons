@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<h2>Importand Dates</h2>
+<table style="width:100%">
+  <tr>
+    <th>Important Date</th>
+    <th>Brokerage</th>
+    <th>Agent/Team</th>
+  </tr>
+  <tr>
+    <td>Submission Open Date</td>
+    <td><button class="editbtn">edit</button></td>
+    <td><button class="editbtn">edit</button></td>
+  </tr>
+  <tr>
+    <td>Bulk Submission Close Date</td>
+    <td><button class="editbtn">edit</button></td>
+    <td><button class="editbtn">edit</button></td>
+  </tr>
+  <tr>
+    <td>Individual Portal Submission Close Date</td>
+    <td><button class="editbtn">edit</button></td>
+    <td><button class="editbtn">edit</button></td>
+  </tr>
+  <tr>
+    <td>Top qualifiers LOCKED - no changes to these</td>
+    <td><button class="editbtn">edit</button></td>
+    <td><button class="editbtn">edit</button></td>
+  </tr>
+  <tr>
+    <td>No changes to Submissions Date</td>
+    <td><button class="editbtn">edit</button></td>
+    <td><button class="editbtn">edit</button></td>
+  </tr>
+</table>
+</html>    
